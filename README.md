@@ -57,7 +57,7 @@ Key analysis performed:
 
 Global COVID-19 Trend
 
-![Global Cases](C:\Users\DELL\Downloads.png)
+![Global Cases](https://github.com/AakshatSharma7/covid19-trend-analysis-forecasting/blob/7669c5f412ff42a025c2e08ce5139c2a5d158072/Graphs/Country%20wise%20active%20cases.png)
 
 Confirmed vs Recovered Cases
 
