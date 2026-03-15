@@ -61,7 +61,9 @@ Global COVID-19 Trend
 
 Confirmed vs Recovered Cases
 
-![Cases Comparison](images/confirmed_vs_recovered.png)
+![Confirmed Case](https://github.com/AakshatSharma7/covid19-trend-analysis-forecasting/blob/489c08e42fb99a1ac2d1619ff0e42a9e920d8fea/Graphs/Confirmed-cases.png)
+
+![Confirmed Case](https://github.com/AakshatSharma7/covid19-trend-analysis-forecasting/blob/489c08e42fb99a1ac2d1619ff0e42a9e920d8fea/Graphs/Recovered-cases.png)
 
 ---
 
