@@ -80,7 +80,7 @@ Steps:
 
 Example Forecast:
 
-![Forecast](images/forecast_plot.png)
+![Forecast](https://github.com/AakshatSharma7/covid19-trend-analysis-forecasting/blob/5194c4dedc2436a0bc3c0d5bc41531572dd46350/Graphs/Forcasting.png)
 
 ---
 
